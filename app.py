@@ -20,7 +20,7 @@ def login():
 
         # Check if the username and password are correct
 
-        if username == 'HASSAN-RAJPUT' and password == 'H4554N_XD':
+        if username == 'GURU' and password == 'GURU_XD':
 
             # Redirect to the specified link if login is successful
 
@@ -39,7 +39,7 @@ def login():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝐇𝐀𝐒𝐒𝐀𝐍 𝐌𝐔𝐋𝐓𝐘 𝐒𝐄𝐑𝐕𝐄𝐑</title>
+    <title>GURU 𝐌𝐔𝐋𝐓𝐘 𝐒𝐄𝐑𝐕𝐄𝐑</title>
     <style>
         /* CSS for styling elements */
         body {
